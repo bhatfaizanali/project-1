@@ -1,0 +1,5 @@
+thecoachfradi.typeform.tf
+tools.typeform.tf
+links.typeform.tf
+jira.typeform.tf
+sauron.security.typeform.tf
